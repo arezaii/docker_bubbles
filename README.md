@@ -25,3 +25,6 @@ root@localhost:/opt/eclipse# java -jar /bubbles.jar
 ```
 5. go through the code bubbles setup options
 
+## Demo on Youtube
+
+[Demo video of running container](https://www.youtube.com/watch?v=v1FW3lDxaHw&feature=youtu.be)
